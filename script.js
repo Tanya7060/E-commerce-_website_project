@@ -14,3 +14,4 @@
  smalling[3].onclick = function(){
     MainImg.src = smalling[3].src; 
   }
+   </script>
